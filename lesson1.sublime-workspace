@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"css",
+				"css-form"
+			],
+			[
+				"update",
+				"updateLater"
+			],
+			[
+				"m",
+				"myCurrentTime"
+			],
+			[
+				"upda",
+				"updateTime"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"t",
+				"tutorial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/lesson2.html",
+			"settings":
+			{
+				"buffer_size": 924,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/lesson2.js",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lesson2.css",
+			"settings":
+			{
+				"buffer_size": 62,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Projects/AngularJS/html/lesson1.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html_completions.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/documents/JavascriptTutorial/lesson1/html/lesson1.html",
+		"/E/documents/JavascriptTutorial/lesson1/js/lesson1.js",
+		"/E/documents/JavascriptTutorial/lesson1/lesson1.sublime-project",
+		"/E/documents/JavaScriptTutorial/lesson1/lesson1.sublime-workspace",
+		"/E/documents/JavascriptTutorial/lesson1/js/lesson1.hs",
+		"/E/documents/JavascriptTutorial/lesson1/lesson1.html",
+		"/E/documents/AngularJsTutorial/html/forms.html",
+		"/E/documents/AngularJsTutorial/html/forms.js",
+		"/E/documents/AngularJsTutorial/html/lesson1/lesson1.html",
+		"/E/documents/AngularJsTutorial/html/directives.html",
+		"/E/documents/AngularJsTutorial/js/directives.js",
+		"/E/documents/AngularJsTutorial/js/expression.js",
+		"/E/documents/AngularJsTutorial/html/expression.html",
+		"/E/documents/AngularJsTutorial/html/AngularJsTutorial.html",
+		"/E/documents/AngularJsTutorial/js/tutorial.js",
+		"/E/documents/AngularJsTutorial/src/AngularJsTutorial.html",
+		"/E/documents/AngularJsTutorial/js/expression.hs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"space",
+			"test",
+			"\"",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/lesson2.html",
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/lesson2.js",
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lesson2.css",
+					"settings":
+					{
+						"buffer_size": 62,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}

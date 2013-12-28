@@ -1,0 +1,27 @@
+<!doctype html>
+<html ng-app>
+  <head>
+    <script src="../libs/angularjs/1.2.6/angular.min.js"></script>
+    <script src="../js/lesson2.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/lesson2.css">
+  </head>
+  <body>
+    <div>This is lesson 2 for AngularJS tutorial.</div>
+    <hr/>
+    <h2>Todo</h2>
+    <div ng-controller="TodoCtrl">
+      <span>{{remaining()}} of {{todos.length}} remaining</span>
+      [ <a href="" ng-click="archive()">archive</a> ]
+      <ul class="unstyled">
+        <li ng-repeat="todo in todos">
+          <input type="checkbox" ng-model="todo.done" />
+          <span class="done-{{todo.done}}">{{todo.text}}</span>
+        </li>
+      </ul>
+      <form ng-submit="addTodo()">
+        <input type="text" ng-model="todoText" size="30" placeholder="add new todo here">
+        <input type="submit" class="btn-primatry" value="add" />
+      </form>
+    </div>
+  </body>
+</html>

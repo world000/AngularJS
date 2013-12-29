@@ -215,8 +215,9 @@ pip-log.txt
 .mr.developer.cfg
 
 #############
-## Python
+## Sublime
 #############
 
 #sublime workspace
 *.sublime-workspace
+*.sublime-project

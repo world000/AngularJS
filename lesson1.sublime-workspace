@@ -124,6 +124,7 @@
 	},
 	"file_history":
 	[
+		"/E/Projects/AngularJS/README.md",
 		"/E/Projects/AngularJS/html/lesson1.html",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html_completions.py",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
@@ -156,7 +157,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -188,7 +189,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -203,8 +204,8 @@
 						"selection":
 						[
 							[
-								679,
-								679
+								173,
+								173
 							]
 						],
 						"settings":
@@ -232,13 +233,15 @@
 						"selection":
 						[
 							[
-								293,
-								293
+								312,
+								312
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -258,8 +261,8 @@
 						"selection":
 						[
 							[
-								60,
-								60
+								62,
+								62
 							]
 						],
 						"settings":
@@ -330,7 +333,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 186.0,
 	"status_bar_visible": true
 }

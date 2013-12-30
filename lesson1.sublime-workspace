@@ -55,7 +55,7 @@
 			"file": "html/lesson2.html",
 			"settings":
 			{
-				"buffer_size": 924,
+				"buffer_size": 811,
 				"line_ending": "Windows"
 			}
 		},
@@ -63,15 +63,31 @@
 			"file": "js/lesson2.js",
 			"settings":
 			{
-				"buffer_size": 627,
+				"buffer_size": 622,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/lesson3.html",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "lesson2.css",
 			"settings":
 			{
-				"buffer_size": 62,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -79,9 +95,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 196.0,
+		"height": 265.0,
 		"selected_items":
 		[
+			[
+				"html",
+				"Snippet: html_doctype"
+			],
+			[
+				"Snippet: ht",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
 			[
 				"side",
 				"View: Toggle Side Bar"
@@ -89,10 +117,6 @@
 			[
 				"redin",
 				"Indentation: Reindent Lines"
-			],
-			[
-				"html",
-				"Snippet: html"
 			],
 			[
 				"rein",
@@ -107,7 +131,7 @@
 				"Indentation: Reindent Lines"
 			]
 		],
-		"width": 512.0
+		"width": 461.0
 	},
 	"console":
 	{
@@ -124,6 +148,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/html_doctype.sublime-snippet",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/html.sublime-snippet",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/HTML.tmLanguage",
 		"/E/Projects/AngularJS/README.md",
 		"/E/Projects/AngularJS/html/lesson1.html",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html_completions.py",
@@ -189,7 +216,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -197,15 +224,15 @@
 					"file": "html/lesson2.html",
 					"settings":
 					{
-						"buffer_size": 924,
+						"buffer_size": 811,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								173,
-								173
+								15,
+								15
 							]
 						],
 						"settings":
@@ -216,7 +243,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 90.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -226,15 +253,15 @@
 					"file": "js/lesson2.js",
 					"settings":
 					{
-						"buffer_size": 627,
+						"buffer_size": 622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								312,
-								312
+								501,
+								501
 							]
 						],
 						"settings":
@@ -251,18 +278,70 @@
 				},
 				{
 					"buffer": 2,
-					"file": "lesson2.css",
+					"file": "html/lesson3.html",
 					"settings":
 					{
-						"buffer_size": 62,
+						"buffer_size": 87,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								62,
-								62
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lesson2.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
